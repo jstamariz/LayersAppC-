@@ -1,0 +1,8 @@
+C:\Users\JorgeTamariz\Desktop\ITLA\4to Cuatrimestre\Programacion II\AppCapasCondominios\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.deps.json
+C:\Users\JorgeTamariz\Desktop\ITLA\4to Cuatrimestre\Programacion II\AppCapasCondominios\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\JorgeTamariz\Desktop\ITLA\4to Cuatrimestre\Programacion II\AppCapasCondominios\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\JorgeTamariz\Desktop\ITLA\4to Cuatrimestre\Programacion II\AppCapasCondominios\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\JorgeTamariz\Desktop\ITLA\4to Cuatrimestre\Programacion II\AppCapasCondominios\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\JorgeTamariz\Desktop\ITLA\4to Cuatrimestre\Programacion II\AppCapasCondominios\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\JorgeTamariz\Desktop\ITLA\4to Cuatrimestre\Programacion II\AppCapasCondominios\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\JorgeTamariz\Desktop\ITLA\4to Cuatrimestre\Programacion II\AppCapasCondominios\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.pdb
